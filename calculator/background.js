@@ -22,7 +22,7 @@ let dizi = []
 let currentNumber = ""
 
 oneBtn.addEventListener("click", function(){
-    currentNumber +="1"
+    currentNumber +="12"
     screen.textContent+=1
 })
 twoBtn.addEventListener("click", function(){
